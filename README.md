@@ -51,7 +51,7 @@
 |6강|2026-09-21(월)|Python 활용 (1) 수치 연산(`numpy`)|[슬라이드](./slides/06-20260921-numpy.pdf)|
 |7강|2026-09-23(수)|Python 활용 (2) 데이터프레임(`pandas`)과 시각화(`seaborn`)|[슬라이드](./slides/07-20260923-pandas-seaborn.pdf)|
 |8강|2026-09-28(월)|코퍼스언어학: 단어 빈도 및 생산성 측정 방식|[슬라이드](./slides/08-20260928-corpus-frequency.pdf)|
-|9강|2026-09-30(수)|문자 인코딩과 유니코드
+|9강|2026-09-30(수)|문자 인코딩과 유니코드|[슬라이드](./slides/09-20260930-encoding-unicode.pdf)|
 |10강|2026-10-07(수)|NSMC 데이터 활용: 형태소 분석, 단어구름
 |11강|2026-10-12(월)|모두의 말뭉치 (1) JSON 파일 처리
 |12강|2026-10-19(월)|모두의 말뭉치 (2) ‘완전’과 ‘아주’의 출현 환경 비교|[논문(김다미 2021)](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002701330)
