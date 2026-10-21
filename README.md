@@ -52,14 +52,14 @@
 |7강|2026-09-23(수)|Python 활용 (2) 데이터프레임(`pandas`)과 시각화(`seaborn`)|[슬라이드](./slides/07-20260923-pandas-seaborn.pdf)|
 |8강|2026-09-28(월)|코퍼스언어학: 단어 빈도 및 생산성 측정 방식|[슬라이드](./slides/08-20260928-corpus-frequency.pdf)|
 |9강|2026-09-30(수)|문자 인코딩과 유니코드|[슬라이드](./slides/09-20260930-encoding-unicode.pdf)|
-|10강|2026-10-07(수)|NSMC 데이터 활용: 형태소 분석, 단어구름
-|11강|2026-10-12(월)|모두의 말뭉치 (1) JSON 파일 처리
-|12강|2026-10-19(월)|모두의 말뭉치 (2) ‘완전’과 ‘아주’의 출현 환경 비교|[논문(김다미 2021)](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002701330)
-|13강|2026-10-21(수)|모두의 말뭉치 (3) ‘완전’과 ‘아주’의 연령별·성별 용례 비교
+|10강|2026-10-07(수)|NSMC 데이터 활용: 형태소 분석, 단어구름|[슬라이드](./slides/10-20261007-nsmc.pdf)
+|11강|2026-10-12(월)|모두의 말뭉치 (1) JSON 파일 처리|[슬라이드](./slides/11-20261012-modu-json.pdf)
+|12강|2026-10-19(월)|모두의 말뭉치 (2) ‘완전’과 ‘아주’의 출현 환경 비교|[슬라이드](./slides/12-20261019-modu-wanjeon.pdf)
+|13강|2026-10-21(수)|모두의 말뭉치 (3) ‘완전’과 ‘아주’의 연령별·성별 용례 비교|[슬라이드](./slides/13-20261021-modu-age-sex.pdf)
 |발표|2026-10-26(월)|언어데이터 관리 사례 발표(논문 발제 및 퀴즈) (1)
 |발표|2026-10-28(수)|언어데이터 관리 사례 발표(논문 발제 및 퀴즈) (2)
 |14강|2026-11-02(월)|표준국어대사전 데이터 활용 (1) XML 파일 처리
-|15강|2026-11-04(수)|표준국어대사전 데이터 활용 (2) 표제어 추출 및 분석|[논문(임건수 2025)](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003203523)
+|15강|2026-11-04(수)|표준국어대사전 데이터 활용 (2) 표제어 추출 및 분석|[논문(임건수 2025)]()
 |16강|2026-11-09(월)|HuggingFace 데이터 활용
 |17강|2026-11-11(수)|코퍼스 구축과 웹 크롤링
 |발표|2026-11-16(월)|개인 프로젝트 중간발표 (1)
@@ -83,7 +83,7 @@
 + 5강 데이터과학
     - Bickel, P. J., Hammel, E. A., & O'Connell, J. W. (1975). Sex Bias in Graduate Admissions: Data from Berkeley: Measuring bias is harder than is usually assumed, and the evidence is sometimes contrary to expectation. *Science*, 187(4175), 398-404. https://www.science.org/doi/10.1126/science.187.4175.398
 + 12강 모두의 말뭉치
-    - 김다미. (2021). 〈부사적 쓰임을 보이는 ‘완전(完全)’에 대한 통시적 고찰〉. 《國語學》 97, 439–475.
+    - 김다미. (2021). 〈부사적 쓰임을 보이는 ‘완전(完全)’에 대한 통시적 고찰〉. 《國語學》 97, 439–475. https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003203523
 + 15강 표준국어대사전
     - 임건수. (2025). 〈매체 언어에서 형용사 어간의 자립적 사용 양상 연구〉. 《한국어학》 107, 183–208.
 
